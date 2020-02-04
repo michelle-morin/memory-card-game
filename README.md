@@ -13,11 +13,12 @@ _This project is a card game that allows a user to click on cards to find a matc
 
 | Specification | Example Input | Example Output |
 | ------------- |:-------------:| -------------------:|
+| Webpage updates number of turns every two clicks | user clicks on 2 card | turns: 1 |
 | Webpage displays an image when a user clicks on a card | user clicks on card | image for that card appears |
 | Webpage displays second image when user clicks on second card | user clicks on different card | image for second card appears |
 | Webpage keeps two cards face-up if the images are the same | user clicks two of same card type | cards remain showing images |
 | Webpage hides images if the images are not the same on two cards clicked | user clicks two of different card type | cards hide images |
-| When all cards are matched, webpage shows user number of tries that it took to win | user wins | turns: 6 |
+| When all cards are matched, webpage shows user number of tries that it took to win | user wins |  you won in 6 turns! |
 
 ## Setup/Installation Requirements
 
