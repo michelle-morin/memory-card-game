@@ -12,7 +12,28 @@ Board.prototype.incrementTurn = function() {
   this.turns ++;
 };
 
-// function Card() {
-//   this.image = ;
+export function Cards() {
+  this.cards =  [
+    {
+      name: 
+      img:
+    },
+    {
+      name: 
+      img:
+    },
+    {
+      name: 
+      img:
+    },
+    {
+      name: 
+      img:
+    },
+    {
+      name: 
+      img:
+    },
+  ]
 
-// }
+}
